@@ -27,7 +27,7 @@ RFM (Recency, Frequency, Monetary) analysis is used to segment customers and ide
 - Customer segmentation (RFM)
 - Monthly sales trends
 - Product category analysis
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 📁 Dataset
 Olist E-commerce Dataset (Brazil)
