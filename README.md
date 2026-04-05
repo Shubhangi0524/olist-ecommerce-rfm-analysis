@@ -1,6 +1,6 @@
 Olist E-commerce Data Analysis (RFM Segmentation)
-🔍 Project Overview
 
+🔍 Project Overview
 This project analyzes customer behavior using the Olist e-commerce dataset.
 RFM (Recency, Frequency, Monetary) analysis is used to segment customers and identify high-value groups.
 
